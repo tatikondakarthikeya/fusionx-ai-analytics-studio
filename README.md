@@ -30,7 +30,7 @@ FusionX AI Analytics Studio is a modern, interactive analytics and ML platform b
 ![Analytics](screenshots/Data_analytics.jpeg)
 
 ### Machine Learning
-![ML Predictions](screenshots/excecutive_dashbord+ML_predictions.jpeg)
+![ML Predictions](screenshots/excecutive_dashboard+ML_predictions.jpeg)
 
 ### PDF/Reporting
 ![PDF Export](screenshots/ai_generated_insights.jpeg)
