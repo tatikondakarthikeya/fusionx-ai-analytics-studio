@@ -23,18 +23,17 @@ FusionX AI Analytics Studio is a modern, interactive analytics and ML platform b
 ![Login](screenshots/login.jpeg)
 
 ### SQL Studio & ER Diagram
-![SQL Studio](screenshots/ER+livesql.jpeg)
-![ER Diagram](screenshots/er_diagram.png)
+![SQL Studio](screenshots/ER+live_sql.jpeg)
+
 
 ### EDA & Analytics Dashboard
-![Analytics](screenshots/Dataanalytics.jpeg)
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![Analytics](screenshots/Data_analytics.jpeg)
 
 ### Machine Learning
-![ML Predictions](screenshots/excecutivedashbord+MLprediction)
+![ML Predictions](screenshots/excecutive_dashbord+ML_prediction)
 
 ### PDF/Reporting
-![PDF Export](screenshots/ai generated insights.jpeg)
+![PDF Export](screenshots/ai_generated_insights.jpeg)
 
 _Update screenshot names/paths as needed for your files!_
 
